@@ -1,10 +1,7 @@
 console.log('logging in JS');
 
-$(document).ready(go);
+$(document).ready(onReady);
 
-let randnomSelector = [];
-
-function go(){
-  for (let person of people)
+function onReady() {
+  console.log('setting up the function');
 }
-
