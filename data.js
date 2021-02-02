@@ -25,6 +25,6 @@ let people = [
   },
   {
     name: 'Johnny',
-    githubUsername: 'jgoth23,
+    githubUsername: 'jgoth23',
   },
 ];
