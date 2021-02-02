@@ -1,1 +1,10 @@
-console.log('Here are all the available people:', people);
+console.log('logging in JS');
+
+$(document).ready(go);
+
+let randnomSelector = [];
+
+function go(){
+  for (let person of people)
+}
+

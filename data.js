@@ -1,30 +1,30 @@
-var people = [
+let people = [
   {
-    name: 'Dev',
-    githubUsername: 'devjanaprime'
+    name: 'William',
+    githubUsername: 'William-Krug',
   },
   {
-    name: 'Dane',
-    githubUsername: 'DoctorHowser'
+    name: 'Peter',
+    githubUsername: 'pnguy5724',
   },
   {
-    name: 'Mary',
-    githubUsername: 'mbmosman'
+    name: 'Vada',
+    githubUsername: 'vkarlen',
   },
   {
-    name: 'Kris',
-    githubUsername: 'kdszafranski'
+    name: 'Zack',
+    githubUsername: 'BuriedinDreams',
   },
   {
-    name: 'Edan',
-    githubUsername: 'eschwartz'
+    name: 'Patrick',
+    githubUsername: 'patrickrnelson',
   },
   {
-    name: 'Casie',
-    githubUsername: 'cassandradanger'
+    name: 'Josh',
+    githubUsername: 'joshgulledge',
   },
   {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
+    name: 'Johnny',
+    githubUsername: 'jgoth23,
   },
 ];
